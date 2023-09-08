@@ -34,15 +34,16 @@ const About = () => {
       <motion.p
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-battleGray text-[16px] leading-[28px]">
-        Born and raised in Singapore, I decided to pursue the abundant opportunities in technology in 
-        the United States in 2019. I graduated with a Bachelor's degree in Computer Science from
-        <a className={styles.link} href='https://www.gatech.edu/'> Georgia Institute of Technology</a>,
-        with a concentration in Artificial Intelligence and Human-Computer Interaction.
+        Born and raised in Singapore, I came to the United States in 2019 and graduated from
+        <a className={styles.link} href='https://www.gatech.edu/'> Georgia Institute of Technology </a>
+        with a Bachelor's degree in Computer Science, specializing in Artificial Intelligence and Human-Computer Interaction.
+        I am currently based in San Francisco, California, as a software engineer at
+        <a className={styles.link} href='https://stripe.com/'> Stripe</a>.
         As a user-focused developer with a passion for creative design, my long-term aspiration
         is to delve into entrepreneurship to improve how humans and machines interact physically and intellectually.
         <br/><br/>
         In my free time, I love to bake, explore new places, do outdoor activities (hiking, kayaking) and 
-        <a className={styles.link} href='https://www.instagram.com/eurekapalette/'>art</a>!
+        <a className={styles.link} href='https://www.instagram.com/eurekapalette/'> art</a>!
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10 justify-center">

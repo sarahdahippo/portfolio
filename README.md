@@ -7,4 +7,4 @@
 
 ## Live Site
 
-- Click [here](sarahdahippo.github.io) to view the live site.
+- Click [here](https://sarahdahippo.github.io/) to view the live site.

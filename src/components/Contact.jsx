@@ -93,7 +93,7 @@ const Contact = () => {
               name="message"
               value={form.message}
               onChange={handleChange}
-              placeholder="What's your message?"
+              placeholder="Have questions, feedback, or just want to chat? Leave me a message!"
               className={`${styles.contactInput} resize-none`}
             />
           </label>

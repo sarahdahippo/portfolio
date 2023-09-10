@@ -49,7 +49,9 @@ const styles = {
   contactInput: 'bg-eerieBlack p-4 placeholder:text-taupe text-timberWolf rounded-lg outline-none border-none font-medium',
   contactSubmitButton: 'flex justify-center gap-2 text-[16px] text-timberWolf font-bold font-beckman items-center p-4\
     whitespace-nowrap rounded-[12px] bg-night hover:bg-battleGray hover:text-eerieBlack transition duration-[0.2s] ease-in-out',
-  contactSubmitIcon: 'contact-btn w-[24px] h-[24px] object-contain'
+  contactSubmitIcon: 'contact-btn w-[24px] h-[24px] object-contain',
+
+  artMarquee: 'w-40 h-40 sm:w-60 sm:h-60 p-1 mt-4'
 };
 
 export { styles };

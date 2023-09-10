@@ -7,6 +7,7 @@ import {
   Navbar,
   Tech,
   Projects,
+  Art,
 } from './components';
 
 const App = () => {
@@ -32,6 +33,9 @@ const App = () => {
             rounded-tl-[150px] rounded-br-[150px]">
             <Experience />
         </div>
+        
+        <Art />
+
         <div className="relative z-0">
           <Contact />
         </div>

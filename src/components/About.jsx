@@ -42,8 +42,7 @@ const About = () => {
         As a user-focused developer with a passion for creative design, my long-term aspiration
         is to delve into entrepreneurship to improve how humans and machines interact physically and intellectually.
         <br/><br/>
-        In my free time, I love to bake, explore new places, do outdoor activities (hiking, kayaking) and 
-        <a className={styles.link} href='https://www.instagram.com/eurekapalette/'> art</a>!
+        In my free time, I love to bake, explore new places, do outdoor activities, and art!
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10 justify-center">

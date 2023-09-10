@@ -40,6 +40,31 @@ import daybook from './projects/daybook.jpg';
 import doctorlingo from './projects/doctorlingo.png';
 import recall from './projects/recall.jpg';
 
+import art1 from './art/1.jpg';
+import art2 from './art/2.jpg';
+import art3 from './art/3.jpg';
+import art4 from './art/4.jpg';
+import art5 from './art/5.jpg';
+import art6 from './art/6.jpg';
+import art7 from './art/7.jpg';
+import art8 from './art/8.jpg';
+import art9 from './art/9.jpg';
+import art10 from './art/10.jpg';
+import art11 from './art/11.jpg';
+import art12 from './art/12.jpg';
+import art13 from './art/13.jpg';
+import art14 from './art/14.jpg';
+import art15 from './art/15.jpg';
+import art16 from './art/16.jpg';
+import art17 from './art/17.jpg';
+import art18 from './art/18.jpg';
+import art19 from './art/19.jpg';
+import art20 from './art/20.jpg';
+import art21 from './art/21.jpg';
+import art22 from './art/22.jpg';
+import art23 from './art/23.jpg';
+import art24 from './art/24.jpg';
+
 export {
   goldenGateBridge,
   singapore,
@@ -76,5 +101,29 @@ export {
   apple,
   gt,
   movelAi,
-  stripe
+  stripe,
+  art1,
+  art2,
+  art3,
+  art4,
+  art5,
+  art6,
+  art7,
+  art8,
+  art9,
+  art10,
+  art11,
+  art12,
+  art13,
+  art14,
+  art15,
+  art16,
+  art17,
+  art18,
+  art19,
+  art20,
+  art21,
+  art22,
+  art23,
+  art24,
 };
